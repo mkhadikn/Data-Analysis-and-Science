@@ -1,3 +1,5 @@
+-- case study: https://8weeksqlchallenge.com/case-study-1/
+
 CREATE TABLE sales (
   customer_id VARCHAR(1),
   order_date DATE,
